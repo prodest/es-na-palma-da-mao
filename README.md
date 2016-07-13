@@ -1,6 +1,6 @@
 # ES na Palma da Mão
 
-## Plataforma
+## Plataformas
 
 * [Roadmap](roadmap.md)
 * [Mobile](https://github.com/prodest/es-na-palma-da-mao-mobile)
