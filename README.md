@@ -4,4 +4,5 @@
 
 ## Plataformas
 * [Mobile](https://github.com/prodest/es-na-palma-da-mao-mobile)
+* Web (Em breve)
 * [Backend](https://github.com/prodest/es-na-palma-da-mao-backend)
